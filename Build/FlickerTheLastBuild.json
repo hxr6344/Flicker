@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "IsolationGame",
+"productName": "Flicker",
 "productVersion": "1.0",
 "dataUrl": "FlickerTheLastBuild.data.unityweb",
 "wasmCodeUrl": "FlickerTheLastBuild.wasm.code.unityweb",
